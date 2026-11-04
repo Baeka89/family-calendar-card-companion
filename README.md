@@ -77,7 +77,7 @@ GitHub Actions führt zusätzlich HACS und hassfest aus. Lokale Vertragsprüfung
 
 ### 11. Versionshistorie
 
-[CHANGELOG.md](CHANGELOG.md) und [GitHub-Releases](https://github.com/Baeka89/family-calendar-card-companion/releases). Die aktuelle Dokumentations- und Symbolbereinigung ist noch nicht veröffentlicht; die Integrationsversion bleibt bis zur Release-Vorbereitung unverändert.
+[CHANGELOG.md](CHANGELOG.md) und [GitHub-Releases](https://github.com/Baeka89/family-calendar-card-companion/releases). Diese Version vereinheitlicht die Dokumentation und entfernt doppelte Symbolkopien.
 
 ### 12. Unterstützung, Mitwirkung und Lizenz
 
@@ -155,7 +155,7 @@ GitHub Actions additionally runs HACS and hassfest. Local contract checks do not
 
 ### 11. Version history
 
-[CHANGELOG.md](CHANGELOG.md) and [GitHub releases](https://github.com/Baeka89/family-calendar-card-companion/releases). The current documentation and icon cleanup has not been released; the integration version remains unchanged until release preparation.
+[CHANGELOG.md](CHANGELOG.md) and [GitHub releases](https://github.com/Baeka89/family-calendar-card-companion/releases). This version aligns the documentation and removes duplicate icon copies.
 
 ### 12. Support, contributing and license
 

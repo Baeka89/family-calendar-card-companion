@@ -2,7 +2,9 @@
 
 Veröffentlichte Änderungen werden hier dokumentiert. Noch nicht veröffentlichte Änderungen stehen getrennt davor. / Published changes are documented here, preceded by a separate section for unreleased changes.
 
-## Noch nicht veröffentlicht / Unreleased
+<a id="release-0-1-2"></a>
+
+## [0.1.2] – 2026-11-04
 
 ### Deutsch 🇩🇪
 
@@ -24,16 +26,15 @@ Keine.
 
 #### Updatehinweise
 
-- Noch nicht veröffentlicht. Integrationsversion unverändert; bestehende Speicherung und Konfiguration bleiben erhalten.
+- Integration auf v0.1.2 aktualisieren und Home Assistant neu starten. Bestehende Zuordnungen bleiben erhalten. Das ZIP enthält `custom_components/family_calendar_card/` für die Installation unter `/config/`.
 
 #### Bekannte Einschränkungen
 
-- Keine neue Liveprüfung in Home Assistant. Mindestversion bisher nicht verbindlich angegeben.
+- Keine neue Liveprüfung in einer echten Home-Assistant-Installation. Eine verbindliche Home-Assistant-Mindestversion ist bisher nicht angegeben.
 
 #### Prüfungen
 
-- Identität der doppelten Symboldateien vor dem Entfernen geprüft. 12 lokale Speicher-Vertragsprüfungen und 4 Konfigurationsprüfungen erfolgreich; HACS und hassfest auf GitHub sind für diesen Arbeitsstand noch nicht ausgeführt.
-
+- 12 Speicher-Vertragsprüfungen und 4 Konfigurationsprüfungen lokal erfolgreich; GitHub-Validierung einschließlich HACS und hassfest am exakten Release-Commit erforderlich und vor Veröffentlichung geprüft.
 ### English 🇺🇸
 
 #### Added
@@ -54,15 +55,15 @@ None.
 
 #### Update notes
 
-- Not released yet. Integration version is unchanged; existing storage and configuration are preserved.
+- Update the integration to v0.1.2 and restart Home Assistant. Existing assignments are preserved. The ZIP contains `custom_components/family_calendar_card/` for installation under `/config/`.
 
 #### Known limitations
 
-- No new live Home Assistant test. A binding minimum version has not yet been declared.
+- No new live test in a real Home Assistant installation. A binding minimum Home Assistant version has not yet been declared.
 
 #### Checks
 
-- Verified the duplicate icon files were identical before removal. 12 local storage contract checks and 4 configuration checks passed; GitHub HACS and hassfest have not yet run for this work state.
+- 12 storage contract checks and 4 configuration checks passed locally; GitHub validation including HACS and hassfest is required on the exact release commit and checked before publication.
 
 ---
 
